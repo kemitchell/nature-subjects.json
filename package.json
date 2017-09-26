@@ -1,0 +1,7 @@
+{
+  "name": "nature-subjects",
+  "version": "0.0.0",
+  "description": "JSON Array of Nature subject areas",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/nature-subjects.json"
+}
